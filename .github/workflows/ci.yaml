@@ -34,7 +34,7 @@ jobs:
           docker.mirrors.sjtug.sjtu.edu.cn
           $ALIYUN_MIRROR
           "
-          image="library/nginx:1.23.1-alpine"
+          image="jolanse/study_xxqg:latest"
 
           for registry in $registrys
           do
