@@ -28,6 +28,9 @@ jobs:
           docker.mirrors.ustc.edu.cn
           mirror.gcr.io
           dockerproxy.com
+          dockerhub.azk8s.cn
+          mirror.ccs.tencentyun.com
+          en6zdy1s.mirror.aliyuncs.com
           docker.mirrors.sjtug.sjtu.edu.cn
           $ALIYUN_MIRROR
           "
