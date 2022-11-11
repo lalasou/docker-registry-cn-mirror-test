@@ -32,6 +32,8 @@ jobs:
           mirror.ccs.tencentyun.com
           en6zdy1s.mirror.aliyuncs.com
           docker.mirrors.sjtug.sjtu.edu.cn
+          reg-mirror.qiniu.com
+          f1361db2.m.daocloud.io
           $ALIYUN_MIRROR
           "
           image="jolanse/study_xxqg:latest"
