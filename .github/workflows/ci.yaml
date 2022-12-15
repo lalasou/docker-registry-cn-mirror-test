@@ -39,7 +39,7 @@ jobs:
           05f073ad3c0010ea0f4bc00b7105ec20.mirror.swr.myhuaweicloud.com
           $ALIYUN_MIRROR
           "
-          image="yipengfei/movie-robot:test"
+          image="diygod/rsshub:latest"
 
           for registry in $registrys
           do
